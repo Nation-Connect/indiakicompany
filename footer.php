@@ -89,7 +89,7 @@
                         document.getElementById('copyright').appendChild(document.createTextNode(new Date()
                             .getFullYear()))
                         </script>
-                    </span> <a href="javascript:;">IndiaKiCompany</a>. All rights reserved. Design by:<a
+                    </span> <a href="javascript:;">IndiaKiCompany</a>. All rights reserved. Design by: <a
                         href="https://www.nationconnect.in/" target="_blank"> Nation Connect</a></p>
             </div><!-- /.pull-right -->
             <div class="pull-right get-text">
