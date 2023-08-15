@@ -64,14 +64,14 @@
                             <li class="dropdown"><a href="javascript:;">Our Services</a>
                                 <ul>
                                 <li><a href="private.php"> Private Limited Company</a></li>
-                                    <li><a href="publiclimitedcompany">Public Limited Company</a></li>
-                                    <li><a href="onepersoncompany.html">One Person Company</a></li>
-                                    <li><a href="limitedliabilitypartnership.html">Limited Liability Partnership</a>
+                                    <li><a href="publiclimitedcompany.php">Public Limited Company</a></li>
+                                    <li><a href="onepersoncompany.php">One Person Company</a></li>
+                                    <li><a href="limitedliabilitypartnership.php">Limited Liability Partnership</a>
                                     </li>
-                                    <li><a href="nidhicompany.html">Nidhi Company</a></li>
+                                    <li><a href="nidhicompany.php">Nidhi Company</a></li>
 
-                                    <li><a href="section8company.html">Section 8 Company</a></li>
-                                    <li><a href="nonbankingfinancecompany">Non Banking Finance Company</a></li>
+                                    <li><a href="section8company.php">Section 8 Company</a></li>
+                                    <li><a href="nonbankingfinancecompany.php">Non Banking Finance Company</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact-us.php">Contact Us</a></li>
