@@ -3,9 +3,14 @@
         <div class="clearfix">
             <div class="col-left float_left">
                 <ul class="top-bar-info">
-                    <li><i class="icon-technology"></i>+91-8700166882, </li>
+                    <!-- <li><i class="icon-technology"></i>+91-8700166882, </li>
 
-                    <li><i class="icon-note2"></i>info@indiakicompany.com</li>
+                    <li><i class="icon-note2"></i>info@indiakicompany.com</li> -->
+
+                    <li><i class="icon-technology"></i><a href="tel:+918700166882"
+                            style="color: white;">+91-8700166882</a></li>
+                    <li><i class="icon-note2"></i><a href="mailto:info@indiakicompany.com"
+                            style="color: white;">info@indiakicompany.com</a></li>
                 </ul>
             </div>
             <div class="col-right float_right">
@@ -63,7 +68,7 @@
                             <li><a href="about-us.php">About Us</a></li>
                             <li class="dropdown"><a href="javascript:;">Our Services</a>
                                 <ul>
-                                <li><a href="private.php"> Private Limited Company</a></li>
+                                    <li><a href="private.php"> Private Limited Company</a></li>
                                     <li><a href="publiclimitedcompany.php">Public Limited Company</a></li>
                                     <li><a href="onepersoncompany.php">One Person Company</a></li>
                                     <li><a href="limitedliabilitypartnership.php">Limited Liability Partnership</a>
