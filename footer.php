@@ -32,15 +32,15 @@
                                 <h3 class="footer-title">Our Services</h3>
                                 <div class="widget-content">
                                     <ul class="list">
-                                    <li><a href="private.php"> Private Limited Company</a></li>
-                                    <li><a href="publiclimitedcompany.php">Public Limited Company</a></li>
-                                    <li><a href="onepersoncompany.php">One Person Company</a></li>
-                                    <li><a href="limitedliabilitypartnership.php">Limited Liability Partnership</a>
-                                    </li>
-                                    <li><a href="nidhicompany.php">Nidhi Company</a></li>
+                                        <li><a href="private.php"> Private Limited Company</a></li>
+                                        <li><a href="publiclimitedcompany.php">Public Limited Company</a></li>
+                                        <li><a href="onepersoncompany.php">One Person Company</a></li>
+                                        <li><a href="limitedliabilitypartnership.php">Limited Liability Partnership</a>
+                                        </li>
+                                        <li><a href="nidhicompany.php">Nidhi Company</a></li>
 
-                                    <li><a href="section8company.php">Section 8 Company</a></li>
-                                    <li><a href="nonbankingfinancecompany.php">Non Banking Finance Company</a></li>
+                                        <li><a href="section8company.php">Section 8 Company</a></li>
+                                        <li><a href="nonbankingfinancecompany.php">Non Banking Finance Company</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -56,14 +56,12 @@
                                 <h3 class="footer-title">Contact us</h3>
                                 <div class="widget-content">
                                     <ul class="contact-info">
-                                        <li><span class="icon-signs"></span>Corporate Office:IndiaKiCompany,
+                                        <li><span class="icon-signs"></span> Corporate Office:IndiaKiCompany,
                                             Sector 41 Main, Dadri Main Rd, Aghapur, Noida, Uttar Pradesh 201301
                                         </li>
 
-                                        <li><span class="icon-phone-call"></span> +91-8700166882 </li>
-
-                                        <li><span class="icon-e-mail-envelope"></span>info@indiakicompany.com
-                                        </li>
+                                        <li><span class="icon-phone-call"></span> <a href="tel:+918700166882">+91-8700166882</a></li>
+  <li><span class="icon-e-mail-envelope"></span> <a href="mailto:info@indiakicompany.com">info@indiakicompany.com</a></li>
                                     </ul>
                                 </div>
                                 <ul class="social">

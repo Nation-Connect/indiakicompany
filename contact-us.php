@@ -41,8 +41,12 @@
                                     Dadri Main Rd, Aghapur, Noida, Uttar Pradesh 201301 </li>
 
 
-                                <li><i class="fa fa-mobile-phone"></i>Mobile: +91-8700166882</li>
-                                <li><i class="fa fa-whatsapp"></i>WhatsApp: +91-8700166882</li>
+                                <!-- <li><i class="fa fa-mobile-phone"></i>Mobile: +91-8700166882</li>
+                                <li><i class="fa fa-whatsapp"></i>WhatsApp: +91-8700166882</li> -->
+                                <li><i class="fa fa-mobile-phone"></i>Mobile: <a
+                                        href="tel:+918700166882">+91-8700166882</a></li>
+                                <li><i class="fa fa-whatsapp"></i>WhatsApp: <a
+                                        href="https://wa.me/918700166882">+91-8700166882</a></li>
 
                                 <li><i class="fa fa-envelope"></i>Email:<a href="mailto:info@indiakicompany.com">
                                         info@indiakicompany.com</a></li>
@@ -130,7 +134,7 @@
                 }
             });
         });
-    </script>
+        </script>
     </div>
 
 </body>
