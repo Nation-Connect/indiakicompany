@@ -26,7 +26,7 @@
                             data-bgrepeat="no-repeat" data-bgparallax="1">
                     </li>
                     <li data-transition="fade">
-                        <img src="images/slider-3.jpg" data-bgposition="top center" data-bgfit="cover"
+                        <img src="images/slider-3.png" data-bgposition="top center" data-bgfit="cover"
                             data-bgrepeat="no-repeat" data-bgparallax="1">
                     </li>
                 </ul>

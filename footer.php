@@ -60,13 +60,15 @@
                                             Sector 41 Main, Dadri Main Rd, Aghapur, Noida, Uttar Pradesh 201301
                                         </li>
 
-                                        <li><span class="icon-phone-call"></span> <a href="tel:+918700166882">+91-8700166882</a></li>
-  <li><span class="icon-e-mail-envelope"></span> <a href="mailto:info@indiakicompany.com">info@indiakicompany.com</a></li>
+                                        <li><span class="icon-phone-call"></span> <a
+                                                href="tel:+918700166882">+91-8700166882</a></li>
+                                        <li><span class="icon-e-mail-envelope"></span> <a
+                                                href="mailto:info@indiakicompany.com">info@indiakicompany.com</a></li>
                                     </ul>
                                 </div>
                                 <ul class="social">
                                     <li><a href="javascript:;"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="javascript:;"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://instagram.com/indiakicompany?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><i class="fa fa-instagram"></i></a></li>
                                     <li><a href="javascript:;"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="javascript:;"><i class="fa fa-pinterest"></i></a></li>
                                 </ul>

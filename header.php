@@ -16,7 +16,7 @@
             <div class="col-right float_right">
                 <ul class="social">
                     <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                    <li><a href=""><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="https://instagram.com/indiakicompany?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><i class="fa fa-instagram"></i></a></li>
                     <li><a href=""><i class="fa fa-twitter"></i></a></li>
                     <li><a href=""><i class="fa fa-pinterest"></i></a></li>
                 </ul>
