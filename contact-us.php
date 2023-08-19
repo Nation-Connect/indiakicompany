@@ -58,7 +58,7 @@
                             <h3>Send Your Message Us</h3>
                         </div>
                         <div class="default-form-area">
-                            <form class="default-form" action="#" id="contact-form" method="post">
+                            <form class="default-form" action="#" id="contact-form1" method="post">
                                 <input type="hidden" name="send-contact-mail" />
                                 <div class="row clearfix">
                                     <div class="col-md-6 col-sm-6 col-xs-12">
@@ -75,7 +75,7 @@
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="form-group">
-                                            <input type="text" name="mobile" class="form-control"
+                                            <input type="text" name="phone" class="form-control"
                                                 placeholder="Your Phone *" pattern="[0-9]{10}" required>
                                         </div>
                                     </div>
@@ -116,7 +116,8 @@
         <?php include 'footer.php'; ?>
         <?php include 'foot.php'; ?>
         <script>
-        $("#contact-form").submit(function(event) {
+        $("#contact-form1").submit(function(event) {
+            
             event.preventDefault();
             $(".submit-btn").html("<i class=`fa fa-circle-notch fa-spin`></i> Please wait...");
             $(".submit-btn").prop('disabled', true);
@@ -128,7 +129,7 @@
                 $(".submit-btn").prop('disabled', false);
                 if (data) {
                     $('#form-message-success').show().delay(5000).fadeOut(500);
-                    $("#contact-form")[0].reset();
+                    $("#contact-form1")[0].reset();
                 } else {
                     $('#form-message-danger').show().delay(5000).fadeOut(500);
                 }
