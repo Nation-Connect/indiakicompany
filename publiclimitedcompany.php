@@ -57,6 +57,16 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="text">
+
+                                
+                                <div class="inner-banner text-center">
+    <img src="images/servicepic/PUBLIC LIMITED COMPANY.png" alt="Registration Image">
+    <!-- Rest of the existing inner-banner code -->
+</div>
+
+
+
+
                                     <h4>Public Limited Company</h4><br>
                                     <p>
                                     The Companies Act, 2013 controls public limited companies. They sell shares to everyone and have limited liability. Anyone can buy their stock, either through an IPO or on the stock market. They're closely monitored and must share their real financial status with shareholders.</p><br>

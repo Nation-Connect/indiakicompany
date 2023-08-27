@@ -57,6 +57,14 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="text">
+
+                                <div class="inner-banner text-center">
+    <img src="images/servicepic/OPC.png" alt="Registration Image">
+    <!-- Rest of the existing inner-banner code -->
+</div>
+
+
+
                                     <h4>One Person Company</h4><br>
                                     <p>
                                     Before the Companies Act of 2013, only two people could create a company. Now, the Act allows One Person Company (OPC) formation in India. It governs registration and functioning. Unlike public or private companies needing multiple directors and members, OPC needs just one. According to Section 262 of the Act, registering an OPC in India is legal. It requires a single director and member. This type has minimal compliance compared to private companies.</p><br>

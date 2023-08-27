@@ -57,6 +57,15 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="text">
+
+
+                                <div class="inner-banner text-center">
+    <img src="images/servicepic/LIMITED LIABILITY PARTNERSHIP.png" alt="Registration Image">
+    <!-- Rest of the existing inner-banner code -->
+</div>
+
+
+
                                     <h4>Limited Liability Partnership </h4><br>
                                     <p>
                                     Limited Liability Partnership (LLP) has emerged as a favored organizational choice for Indian entrepreneurs, blending partnership benefits with corporate advantages. An LLP melds features of both partnership and company structures. Formed with a minimum of two partners under an LLP agreement, it offers limited liability to partners and perpetual succession like a company.

@@ -61,7 +61,7 @@
 
 
                                     <div class="inner-banner text-center">
-    <img src="images/registration-image.jpg" alt="Registration Image">
+    <img src="images/servicepic/pvt.png" alt="Registration Image">
     <!-- Rest of the existing inner-banner code -->
 </div>
 

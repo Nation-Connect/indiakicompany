@@ -57,6 +57,16 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="text">
+
+                                <div class="inner-banner text-center">
+    <img src="images/servicepic/nidhi company.png" alt="Registration Image">
+    <!-- Rest of the existing inner-banner code -->
+</div>
+
+
+
+
+
                                     <h4>Nidhi Company REGISTRATION</h4><br>
                                     <p>Nidhi Company, a type of NBFC, promotes savings among members and operates on mutual benefit principles. Primarily in the south, it doesn't need RBI approval, making formation simple. Registered as a public company, its name must end with 'Nidhi Limited'.</p>
 <p><strong>Activities Not Allowed:</strong></p>

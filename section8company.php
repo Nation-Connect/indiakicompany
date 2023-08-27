@@ -57,6 +57,16 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="text">
+
+
+                                <div class="inner-banner text-center">
+    <img src="images/servicepic/SECTION 8.png" alt="Registration Image">
+    <!-- Rest of the existing inner-banner code -->
+</div>
+
+
+
+
                                     <h4>Section 8 Company REGISTRATION</h4><br>
                                     
 <div class="section-8-text">

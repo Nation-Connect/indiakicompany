@@ -57,6 +57,16 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="text">
+
+                                <div class="inner-banner text-center">
+    <img src="images/servicepic/nbfc.png" alt="Registration Image">
+    <!-- Rest of the existing inner-banner code -->
+</div>
+
+
+
+
+
                                     <h4>Non Banking Finance Company REGISTRATION</h4><br>
                                     <ul class="attractive-list">
    

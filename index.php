@@ -18,11 +18,11 @@
             <div id="slider1" class="rev_slider" data-version="5.0">
                 <ul>
                     <li data-transition="fade">
-                        <img src="images/slider-1.jpg" data-bgposition="top center" data-bgfit="cover"
+                        <img src="images/slider-1.png" data-bgposition="top center" data-bgfit="cover"
                             data-bgrepeat="no-repeat" data-bgparallax="1">
                     </li>
                     <li data-transition="fade">
-                        <img src="images/slider-2.jpg" data-bgposition="top center" data-bgfit="cover"
+                        <img src="images/slider-2.png" data-bgposition="top center" data-bgfit="cover"
                             data-bgrepeat="no-repeat" data-bgparallax="1">
                     </li>
                     <li data-transition="fade">
