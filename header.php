@@ -30,7 +30,10 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="main-logo">
-                <a href="index.php"><img src="images/logo.png" height="100" width="100"></a>
+                
+
+
+                
                 </div>
             </div>
             <div class="col-md-8 menu-column">
